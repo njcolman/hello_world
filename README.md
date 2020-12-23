@@ -1,2 +1,4 @@
 # hello_world
-basic repository
+Hallo,
+
+Experimenting with GitHUB
